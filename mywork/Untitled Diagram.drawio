@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-08T05:59:18.654Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.43" etag="LO4DmV4E9Z4llJ_QTcFZ" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-08T06:19:24.705Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.43" etag="XYhUAqQ-NDNZVi3JEMBG" version="15.9.1" type="github">
   <diagram id="CRfr-3NjzyPq3J_ZaFha" name="Page-1">
     <mxGraphModel dx="1038" dy="1716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="58el3CB2n9Ru_PI74ucJ-2" value="检测船岸连接情况" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="167" y="-1110" width="106" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="58el3CB2n9Ru_PI74ucJ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="58el3CB2n9Ru_PI74ucJ-3" target="58el3CB2n9Ru_PI74ucJ-4">
+        <mxCell id="58el3CB2n9Ru_PI74ucJ-6" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="58el3CB2n9Ru_PI74ucJ-3" target="58el3CB2n9Ru_PI74ucJ-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="58el3CB2n9Ru_PI74ucJ-9" value="Y&lt;br&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="58el3CB2n9Ru_PI74ucJ-3" target="58el3CB2n9Ru_PI74ucJ-10">
@@ -21,15 +21,15 @@
         <mxCell id="58el3CB2n9Ru_PI74ucJ-3" value="case:连船不连岸" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="-1020" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="58el3CB2n9Ru_PI74ucJ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="58el3CB2n9Ru_PI74ucJ-4" target="58el3CB2n9Ru_PI74ucJ-5">
+        <mxCell id="58el3CB2n9Ru_PI74ucJ-7" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="58el3CB2n9Ru_PI74ucJ-4" target="58el3CB2n9Ru_PI74ucJ-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="58el3CB2n9Ru_PI74ucJ-14" value="Y&lt;br&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="58el3CB2n9Ru_PI74ucJ-4" target="58el3CB2n9Ru_PI74ucJ-15">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="367" y="-920" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="425" y="-670" />
-              <mxPoint x="425" y="-670" />
+              <mxPoint x="425" y="-850" />
+              <mxPoint x="425" y="-850" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -53,14 +53,14 @@
             <mxPoint x="217" y="-720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="58el3CB2n9Ru_PI74ucJ-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="58el3CB2n9Ru_PI74ucJ-11" target="58el3CB2n9Ru_PI74ucJ-25">
+        <mxCell id="58el3CB2n9Ru_PI74ucJ-34" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="58el3CB2n9Ru_PI74ucJ-11" target="58el3CB2n9Ru_PI74ucJ-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="58el3CB2n9Ru_PI74ucJ-11" value="有找到用户" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="-790" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="58el3CB2n9Ru_PI74ucJ-15" value="缓存校验，离线登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="-560" width="120" height="60" as="geometry" />
+          <mxGeometry x="370" y="-450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="58el3CB2n9Ru_PI74ucJ-28" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="58el3CB2n9Ru_PI74ucJ-16" target="58el3CB2n9Ru_PI74ucJ-26">
           <mxGeometry relative="1" as="geometry" />
@@ -71,17 +71,17 @@
         <mxCell id="58el3CB2n9Ru_PI74ucJ-22" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="58el3CB2n9Ru_PI74ucJ-18" target="58el3CB2n9Ru_PI74ucJ-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="58el3CB2n9Ru_PI74ucJ-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="58el3CB2n9Ru_PI74ucJ-18" target="58el3CB2n9Ru_PI74ucJ-15">
+        <mxCell id="58el3CB2n9Ru_PI74ucJ-39" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="58el3CB2n9Ru_PI74ucJ-18" target="58el3CB2n9Ru_PI74ucJ-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="58el3CB2n9Ru_PI74ucJ-18" value="是船端用户" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="-670" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="58el3CB2n9Ru_PI74ucJ-21" value="请求船端登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="-560" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="-450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="58el3CB2n9Ru_PI74ucJ-25" value="密码错误" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="-775" width="90" height="50" as="geometry" />
+          <mxGeometry x="310" y="-775" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="58el3CB2n9Ru_PI74ucJ-32" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="58el3CB2n9Ru_PI74ucJ-26" target="58el3CB2n9Ru_PI74ucJ-31">
           <mxGeometry relative="1" as="geometry" />
@@ -89,20 +89,34 @@
         <mxCell id="58el3CB2n9Ru_PI74ucJ-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="58el3CB2n9Ru_PI74ucJ-26" target="58el3CB2n9Ru_PI74ucJ-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="58el3CB2n9Ru_PI74ucJ-45" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="58el3CB2n9Ru_PI74ucJ-35">
+          <mxGeometry x="-0.2583" y="6" relative="1" as="geometry">
+            <mxPoint y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="58el3CB2n9Ru_PI74ucJ-26" value="有找到用户" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="572" y="-790" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="58el3CB2n9Ru_PI74ucJ-37" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="58el3CB2n9Ru_PI74ucJ-31" target="58el3CB2n9Ru_PI74ucJ-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="58el3CB2n9Ru_PI74ucJ-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="58el3CB2n9Ru_PI74ucJ-31" target="58el3CB2n9Ru_PI74ucJ-15">
+        <mxCell id="58el3CB2n9Ru_PI74ucJ-47" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="58el3CB2n9Ru_PI74ucJ-31" target="58el3CB2n9Ru_PI74ucJ-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="58el3CB2n9Ru_PI74ucJ-31" value="是岸端用户" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="572" y="-670" width="80" height="80" as="geometry" />
+          <mxGeometry x="572" y="-690" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="58el3CB2n9Ru_PI74ucJ-36" value="请求岸端登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="552" y="-560" width="120" height="60" as="geometry" />
+          <mxGeometry x="552" y="-450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="58el3CB2n9Ru_PI74ucJ-48" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="58el3CB2n9Ru_PI74ucJ-41" target="58el3CB2n9Ru_PI74ucJ-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="58el3CB2n9Ru_PI74ucJ-49" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="58el3CB2n9Ru_PI74ucJ-41" target="58el3CB2n9Ru_PI74ucJ-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="58el3CB2n9Ru_PI74ucJ-41" value="连的上船端" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="-610" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
